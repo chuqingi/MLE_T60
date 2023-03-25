@@ -1,5 +1,5 @@
 /****************************************************************************
-Dveloper: Jiaxin Li
+Developer: Jiaxin Li
 E-mail: 1319376761@qq.com
 Github: https://github.com/chuqingi/MLE_T60
 Integrated Development Environment(IDE): Microsoft Visual Studio 2019
